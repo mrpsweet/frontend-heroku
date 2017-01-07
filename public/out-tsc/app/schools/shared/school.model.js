@@ -1,1 +1,0 @@
-//# sourceMappingURL=/Users/harryliu/Documents/projects/cover/frontend/src/app/schools/shared/school.model.js.map
